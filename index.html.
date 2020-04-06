@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Webpage</title>
+    <style>
+        #body{
+            background-color: rgb(237, 192, 125);
+        }
+     
+        .Madrid{
+            color: green;
+        }
+        #Introduction{
+            color: rgb(33, 222, 165);
+            background-color:rgb(0, 0, 0);
+        }
+        #Symbols{
+             color: rgb(33, 222, 165);
+            background-color:rgb(0, 0, 0);
+        }
+        #Places{
+             color: rgb(33, 222, 165);
+            background-color:rgb(0, 0, 0);
+        }
+        h4{
+             color: rgb(33, 222, 165);
+            background-color:rgb(0, 0, 0);
+        }
+    </style>
+    </head>
+    <body id = "body">
+    
+        <h1>The city of... <em class="Madrid"><strong>Madrid</strong></em></h1>
+        <h2 id="Introduction">Introduction</h2>
+        
+          <p> <strong>Madrid</strong> is a city and capital of <strong><em>Spain</em></strong>, so it has different architectural wonders performed over the years. Thanks to this it is one of the most visited cities in the world and a city that you should visit, then I will try to convince you.
+          </p> 
+        
+          <p>Now you can see a map of the city of Madrid and its surroundings and a small video showing the surface of Madrid:</p>
+        
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118988.54327245158!2d-3.7442556783681904!3d40.413966179419965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422997800a3c81%3A0xc436dec1618c2269!2sMadrid!5e0!3m2!1ses!2ses!4v1586174378878!5m2!1ses!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/NWBtMK3GsV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        <h3 id= "Symbols">Symbols of the city</h3>    
+
+          <p> Madrid has different symbols, as every city of the world.
+          </p>
+            <ul>
+              <li><strong>The Flag </strong></li>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandera_de_Madrid.svg/110px-Bandera_de_Madrid.svg.png" width="115">
+              <li><strong> Coat of arms</strong></li>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Escudo_de_Madrid.svg/70px-Escudo_de_Madrid.svg.png" width="67">
+            </ul>
+        <h4 id="Places"><strong> Best Places to visit</strong></h4>
+          <p>In this section I will try to show you some of the monuments and places to visit that are worth visiting in Madrid, but before that, I show you a video, where there is a magnificent description of different places that you should visit if you are in Madrid: </p>
+          
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/cmm_nkaUrPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+            <ol>
+              <li><strong>The Royal Palace: </strong></li>
+                
+                <p>It is a property of the King of Spain, which is currently used for state ceremonies and solemn acts.</p>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Palacio_Real%2C_Madrid_7.jpg" width="251">
+                
+                <p>Also known as the Palace of the East, it has a surface area of 199,000 m² and 3,478 rooms. It is the largest royal palace in Western Europe2 and one of the largest in the world. It houses a valuable historical-artistic heritage, including a collection of musical instruments known as the Stradivarius Palatinos, and very important collections in other disciplines such as painting, sculpture and tapestry. The State Rooms and the art collections are open to visits as long as there are no official events.</p>
+                
+                <p>The palace was built by order of King Philip V, on the site left by the Royal Alcazar, almost completely destroyed by a fire in 1734. Both the foundations of the old Alcazar and some of its structures were used for the construction of the new palace. The episode of the fire served to justify the replacement of the old building by a palace in keeping with the taste of the time.</p>
+                
+                <p>The interior of the palace stands out for its artistic wealth, both in terms of the use of all kinds of noble materials in its construction and the decoration of its rooms with works of art of all kinds, such as paintings by important artists such as Caravaggio, Velázquez, Francisco de Goya and frescos by Corrado Giaquinto, Giovanni Battista Tiepolo and Anton Raphael Mengs. Other notable collections preserved in the building are those of the Royal Armoury, porcelain, watches, furniture and silverware.</p>
+                
+                <p>Besides all its inner value, in its surroundings we can visit its extensive parks, which have a great diversity of vegetation and a multitude of statues.</p>
+                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/yoLSVk0lnMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                
+                <p>In front of the Palace, we can see the cathedral of Madrid, known as <strong>"La Almudena"</strong>, I show you a picture of its facade so you can appreciate the beauty of it:</p>
+                
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Madrid_cathedral_Spain_exterior.jpg/1200px-Madrid_cathedral_Spain_exterior.jpg" width="251">
+    
+             <li><strong> The Fountain of Cibeles:</strong> </li>
+             
+                <p>This is a monumental fountain in the city of Madrid, located in the square of the same name, in the central area of the Spanish capital.</p>
+    
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Fuente_de_Cibeles.jpg" width="249">
+    
+                <p>It was conceived as part of an urban redevelopment plan in the eighteenth century, on the initiative of King Carlos III, who planned to beautify the capital of the kingdom according to the aesthetics of neoclassicism. The project included a series of fountains sculpted with classical mythological motifs (Neptune's Fountain, Apollo's Fountain), a Museum of Natural Sciences (now the Prado Museum), the Royal Botanical Garden, the landscaping of the area and other proposals that finally did not materialize.</p>
+    
+                <p>The fountain represents the mother goddess Cybele, on a chariot pulled by lions . It is currently bounded by the large buildings of the Palacio de Buenavista (Army Headquarters), Linares Palace (Casa de America), Palace of Communications (formerly headquarters of the Post Office and now the Mayor's Office of Madrid) and Bank of Spain. The curious thing is that each of these monuments belongs to a different district of Madrid.</p>
+    
+                <p>Moreover, it is used by a team from the capital, Real Madrid CF, to celebrate the titles they win. As a ritual, the team captains climb up to the statue of the goddess and place different objects of the club on it (scarves, flags), in case you are curious about this kind of ritual, watch this video:</p>
+                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/_rjhN4gJGVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+              <li><strong>Puerta de Alcalá:</strong></li>
+              
+                <p>This is one of the five old royal gates that gave access to the city of Madrid.</p>
+    
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Madrid_-_Puerta_Alcala_01.jpg/250px-Madrid_-_Puerta_Alcala_01.jpg" width="249">
+    
+                <p>The gate gave access to those travellers who entered the town in the past from France or Aragon. Today it is a monumental gate located next to the Fuente de Cibeles and the Retiro Park. It was built by mandate of Charles III to replace another previous door that existed since the sixteenth century. The design and work belongs to the Italian architect Francesco Sabatini.</p>
+    
+             <li><strong>Park "El Retiro":</strong></li>
+                
+                <p>This is a historical garden and public park located in Madrid (Spain), with a surface area of 118 hectares (1,180,000 m²) and a perimeter of 4.5 km. Considered one of the main tourist attractions of the city, houses many architectural, sculptural and landscape of the seventeenth to twenty-first centuries, among which the Monument to Alfonso XII, the Crystal Palace, the Great Pond, the Parterre, the Gate of Philip IV, the Royal Astronomical Observatory and the fountain of the Artichoke, and even earlier, as the chapel of San Pelayo and San Isidoro, of Romanesque origin.</p>
+    
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jardines_del_Buen_Retiro_de_Madrid.jpg/275px-Jardines_del_Buen_Retiro_de_Madrid.jpg" width="253">
+    
+                <p>It was built in the first half of the 17th century as part of the landscaping project developed for the Palacio del Buen Retiro, an old royal possession created by the Count-Duke of Olivares (1587-1645)1 for the enjoyment of Felipe IV (1605-1665),2 who was its patron. Its use as an urban park dates back to 1767, the year in which Charles III (1716-1788) allowed the public to enter for recreational purposes3 and, definitively, from 1868, when it came under the ownership of the Madrid City Council.</p>
+    
+                <p>In this short video you will be able to observe the different rooms of this great park:</p>
+                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/qSw9hKoEXeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+             <li><strong>Santiago Bernabeu Stadium:</strong> </li>
+                
+                <p>The Santiago Bernabeu Stadium is a sports facility owned by Real Madrid Football Club, located in the heart of Paseo de la Castellana, in the Chamartin district of Madrid, Spain. It opened on 14 December 1947 and currently has a capacity of 81 044 spectators. The stadium is listed by UEFA with the highest distinction, "elite stadium".</p>
+    
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Estudio_Lamela_SantiagoBernabeu.jpg" width="254">
+                
+                <p>In addition, they have taken place in different very important events in the sports aspect, like matches of the World Cup and the European Cup and being the venue of several finals of the Champions League and in one occasion of the Copa Libertadores</p>
+                
+                <p>Here you can see a small video commemorating the 71st anniversary of the stadium, watching from its construction to the most remarkable moments occurred in it:</p>
+                
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/aGbWI6r8d3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </ol>
+        
+      <h4 > Why you should visit the city</h4>
+        <p> </p>
+
+    </body>
+</html>
